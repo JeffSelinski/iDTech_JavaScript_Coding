@@ -1,2 +1,2 @@
 # JavaScript Coding
-This is a test text file.
+This is a test text file containing info.
